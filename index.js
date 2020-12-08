@@ -1,1 +1,1 @@
-console.log('indexjs')
+console.log('index..js')
