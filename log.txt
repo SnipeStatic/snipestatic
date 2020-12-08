@@ -1,0 +1,1 @@
+here's my log file that i want to ignore
